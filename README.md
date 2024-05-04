@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Arshad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Flutter developer from India</h3>
 
 - 📫 How to reach me **mohammedarshadar3@gmail.com**
 
