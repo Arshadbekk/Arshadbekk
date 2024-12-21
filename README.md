@@ -54,6 +54,7 @@
 ---
 
 ### 📊 GitHub Stats:
+<div style="display: flex, justify-content: center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arshadbekk&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -63,6 +64,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadbekk&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+</div>
+
 
 ---
 
