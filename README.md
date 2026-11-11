@@ -1,5 +1,5 @@
 <!-- ============ HEADER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,14,18,20,24&text=Mohammed%20Arshad&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%C2%B7%20Mobile%20Application%20Engineer&descSize=18&descAlignY=60" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,14,18,20,24&text=Mohammed%20Arshad&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%C2%B7%20Mobile%20Application%20Engineer&descSize=18&descAlignY=60" alt="header" />
 
 <div align="center">
 
@@ -145,20 +145,17 @@ A personal AI assistant for **coding help**, **voice interaction**, **desktop au
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arshadbekk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&rank_icon=github" alt="stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=arshadbekk&theme=radical&hide_border=true&background=0d1117" alt="streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshadbekk&theme=radical" alt="profile details" />
+<img height="180" src="https://streak-stats.demolab.com/?user=arshadbekk&theme=radical&hide_border=true&background=0d1117" alt="streak" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadbekk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshadbekk&theme=radical" alt="repos per language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arshadbekk&theme=radical" alt="most commit language" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arshadbekk&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f5ff&line=ff2e97&point=ffffff&area=true&area_color=8a2be2" alt="activity graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=arshadbekk&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+<img width="95%" src="https://ghchart.rshah.org/8a2be2/arshadbekk" alt="contribution chart" />
 
 </div>
 
